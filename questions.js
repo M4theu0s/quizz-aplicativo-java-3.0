@@ -3,25 +3,24 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "quem foi o jogador de cs que ganhou mais major?",
+answer: "dupreeh",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"s1mple",
+"coldzera",
+"dupreeh",
+"GeT_RiGhT"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Qual time que coldzera fez a jogada que resultou o grafite na mirage?",
+answer: "Team Liquid",
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"Astralis",
+"Team Liquid",
+"Navi",
+"Big"
 ]
 },
 {
