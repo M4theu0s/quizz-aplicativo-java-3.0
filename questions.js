@@ -48,14 +48,13 @@ options: [
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
-answer: "Vênus e Urano",
+question: "Qual nome do time melhor time CS?",
+answer: "Natus Vincere",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+1"Natus Vincere",
+2"Cloud9",
+3"FURIA",
+4"Faze Clan"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
