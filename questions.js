@@ -6,10 +6,10 @@ numb: 1,
 question: "quem foi o jogador de cs que ganhou mais major?",
 answer: "dupreeh",
 options: [
-"s1mple",
-"coldzera",
-"dupreeh",
-"GeT_RiGhT"
+1"s1mple",
+2"coldzera",
+3"dupreeh",
+4"GeT_RiGhT"
 ]
 },
 {
@@ -17,34 +17,32 @@ numb: 2,
 question: "Qual time que coldzera fez a jogada que resultou o grafite na mirage?",
 answer: "Team Liquid",
 options: [
-"Astralis",
-"Team Liquid",
-"Navi",
-"Big"
+1"Astralis",
+2"Team Liquid",
+3"Navi",
+4"Big"
 ]
 },
 {
 numb: 3,
-question: "Quem é o melhor jogador do mundo atualmente no CS"?
-mais longo do ano?",
+question: "Quem é o melhor jogador do mundo atualmente no CS"?,
 answer: "S1mple",
 options: [
-"S1mple",
-"ZywOo",
-"M0nesy",
-"Niko"
+1"S1mple",
+2"ZywOo",
+3"M0nesy",
+4"Niko"
 ]
 },
 {
 numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
-possui?",
-answer: "12",
+question: "Quantos major que Fallen possui?",
+answer: "2",
 options: [
-"12",
-"11",
-"14",
-"13"
+1"3",
+2"4",
+3"1",
+4"2"
 ]
 
 },
