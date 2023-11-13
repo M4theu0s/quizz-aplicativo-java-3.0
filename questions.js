@@ -25,14 +25,14 @@ options: [
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
+question: "Quem é o melhor jogador do mundo atualmente no CS"?
 mais longo do ano?",
-answer: "Solstício de verão",
+answer: "S1mple",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"S1mple",
+"ZywOo",
+"M0nesy",
+"Niko"
 ]
 },
 {
